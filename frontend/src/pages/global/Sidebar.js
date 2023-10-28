@@ -94,7 +94,7 @@ const SidebarAdm = () => {
                                         <MenuItem component={<Link to="/user/dashboard" />} icon={<DashboardIcon />}> Dashboard </MenuItem>
                                         <MenuItem component={<Link to="/user/jobs" />} icon={<WorkHistoryIcon />}> Applied Jobs </MenuItem>
                                  <MenuItem component={<Link to="/user/info" />} icon={<Person3Icon />}> Personal Info </MenuItem>
-                                 <MenuItem component={<Link to="../Home.js" />} icon={<Person3Icon />}> Home </MenuItem>
+                                 <MenuItem component={<Link to="../Home" />} icon={<Person3Icon />}> Home </MenuItem>
                                 
                                     </>
                             }
