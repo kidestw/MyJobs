@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@redux-devtools/extension": "^3.2.5",
     "@reduxjs/toolkit": "^1.9.7",
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
