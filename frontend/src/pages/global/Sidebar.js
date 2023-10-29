@@ -155,6 +155,13 @@ const SidebarAdm = () => {
                     {" "}
                     Personal Info{" "}
                   </MenuItem>
+                  <MenuItem
+                    component={<script src="../Home.js"></script>}
+                    icon={<DashboardIcon />}
+                  >
+                    {" "}
+                    Home{" "}
+                  </MenuItem>
                 </>
               )}
             </Menu>
