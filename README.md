@@ -43,8 +43,8 @@ To deploy the project on Render, follow these steps:
 ##Team Members
 This project was made in collaboration by:
 
-Kidest Worku: @kidestw And
-Meryem Abdulmohsin: @meryem00
+Kidest Worku: https://github.com/kidestw And
+Meryem Abdulmohsin: https://github.com/meryem00
 
 ## License
 
